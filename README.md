@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Amber
 - 👀 I’m interested in Certificate and testing
 - 🌱 I’m currently learning Wireless technology
-- 📫 How to reach me :sixian.huang@lcs-cert
+- 📫 How to reach me :sixian.huang@lcs-cert.com
